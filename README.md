@@ -75,6 +75,7 @@
    ```
 
 📸 How It Works
+
 1.The app accesses your webcam using OpenCV.
 
 2.YOLO model detects objects in each frame.
