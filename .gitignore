@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Model weights and large files
+*.pt
+*.onnx
+*.weights
+
+# Uploads
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
